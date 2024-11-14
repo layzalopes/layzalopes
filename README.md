@@ -1,16 +1,32 @@
-## Hi there 👋
+### 👋 Olá, sou **Láyza Lopes!**
 
-<!--
-**layzalopes/layzalopes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+#### 🎨 **UX/UI Designer | Apaixonada por Design e Experiência do Usuário**
 
-Here are some ideas to get you started:
+Bem-vindo(a) ao meu GitHub! Sou uma UX/UI Designer dedicada a transformar ideias em interfaces intuitivas e experiências digitais impactantes. Com uma abordagem centrada no usuário, meu trabalho combina pesquisa, prototipagem e design visual para criar soluções que realmente agreguem valor. 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 🌟 **Sobre mim:**
+- **💼 Experiência**: Trabalho com ferramentas como **Figma**, **Adobe XD** e **Notion** para criar interfaces funcionais e visualmente atraentes.
+- **🎓 Aprendizado contínuo**: Estou sempre explorando novas técnicas e tendências de design, com foco em **Design Thinking** e **usabilidade**.
+- **📌 Objetivo**: Contribuir para projetos que façam a diferença na vida dos usuários, melhorando a experiência digital e resolvendo problemas reais de forma criativa.
+
+---
+
+### 🚀 **O que você encontra aqui:**
+- **📐 Protótipos e estudos de caso**: Compartilho projetos que demonstram meu processo de design e a aplicação de metodologias de UX/UI.
+- **📊 Experimentos**: Repositórios de experimentos com conceitos novos em UI, fluxos de navegação e interatividade.
+- **🌐 Projetos em colaboração**: Valorizo o trabalho em equipe e estou aberta a colaborar em projetos inovadores e desafiadores.
+
+---
+
+### 🔧 **Ferramentas e Habilidades:**
+- **Design e Prototipagem**: Figma, Adobe XD
+- **Organização e Produtividade**: Notion
+- **Metodologias**: Design Thinking, Pesquisa de Usuário, Usabilidade
+
+---
+
+### 🌱 **Estou atualmente aprendendo:**
+- Melhorar a **experiência do usuário** através de pesquisa e feedback contínuos.
+- Explorar novas ferramentas e tendências no design digital.
